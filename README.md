@@ -2,13 +2,29 @@
 
 ## Plataforma Inteligente para Gestão Psicopedagógica e Educação Inclusiva
 
-Em desenvolvimento.
+### Missão
 
-Idealizador:
-Daniel Galdino
+Desenvolver uma plataforma inteligente para auxiliar psicopedagogos, NAPNE, AEE, professores e gestores na elaboração de PEIs, planos de ação, relatórios e acompanhamento dos estudantes.
 
-Objetivo:
-Desenvolver uma plataforma inteligente capaz de auxiliar psicopedagogos, equipes do NAPNE, AEE, docentes e gestores na elaboração de PEIs, planos de ação e acompanhamento dos estudantes.
+---
 
-Status:
+## Módulos
+
+- Login
+- Dashboard
+- Cadastro de Estudantes
+- Entrevista Psicopedagógica
+- PEI
+- Plano de Ação
+- Acompanhamentos
+- Relatórios
+- Indicadores
+- Inteligência Artificial
+
+---
+
+## Status
+
 🚧 Em desenvolvimento
+
+Versão: 0.1
